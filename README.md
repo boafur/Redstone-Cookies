@@ -1,9 +1,13 @@
-# Fabric Example Mod
+# Redstone Cookies
 
-## Setup
+Adds extremely over-powered Redstone Cookies to Minecraft.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+See the [CurseForge page](https://www.curseforge.com/minecraft/mc-mods/redstone-cookies) for more information.
 
-## License
+## Dependencies
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+FabricAPI > 0.32.5
+
+## How to build it yourself
+
+Clone the repository then run `.\gradlew build` in a terminal/command prompt window (if on linux then its `./gradlew build`)
