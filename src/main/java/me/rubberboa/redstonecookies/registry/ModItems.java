@@ -20,8 +20,8 @@ public class ModItems {
                     .statusEffect(new StatusEffectInstance(StatusEffects.FIRE_RESISTANCE, 20*600, 0, true, false), 1)
                     .statusEffect(new StatusEffectInstance(StatusEffects.RESISTANCE, 20*600, 1, true, false), 1)
                     .statusEffect(new StatusEffectInstance(StatusEffects.REGENERATION, 20*120, 2, true, false), 1)
-                    .statusEffect(new StatusEffectInstance(StatusEffects.HEALTH_BOOST, 20*1639, 2, true, false), 1)
-                    .statusEffect(new StatusEffectInstance(StatusEffects.ABSORPTION, 20*1639, 1, true, false), 1)
+                    .statusEffect(new StatusEffectInstance(StatusEffects.HEALTH_BOOST, 20*1000000, 2, true, false), 1)
+                    .statusEffect(new StatusEffectInstance(StatusEffects.ABSORPTION, 20*1000000, 1, true, false), 1)
                     .build()
     ));
 
